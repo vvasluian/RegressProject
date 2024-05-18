@@ -54,7 +54,7 @@
                         <version>3.2.5</version>
                         <configuration>
                             <suiteXmlFiles>
-                                <suiteXmlFile>profiles/calculator.testng.xml</suiteXmlFile>
+                                <suiteXmlFile>profiles/project.testng.xml</suiteXmlFile>
                             </suiteXmlFiles>
                         </configuration>
                     </plugin>
